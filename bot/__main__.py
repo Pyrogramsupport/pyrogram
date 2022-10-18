@@ -17,9 +17,9 @@ Siva = Client(
 
 
 
-Forse_channel = "Pyrogramupdates"
+Forse_channel = "pokemon_series_telugu"
 
-Forse_group = "pyrogramsupport"
+Forse_group = "pokemon_series_teluguu"
 
 
 Channel = [[
